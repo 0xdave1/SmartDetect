@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SmartDetect/static/css/main.6afd84a5.css",
+    "main.js": "/SmartDetect/static/js/main.9c28eba4.js",
+    "static/js/453.666a5367.chunk.js": "/SmartDetect/static/js/453.666a5367.chunk.js",
+    "static/media/axios.cjs": "/SmartDetect/static/media/axios.693cfcc9e5223535a0dc.cjs",
+    "index.html": "/SmartDetect/index.html",
+    "main.6afd84a5.css.map": "/SmartDetect/static/css/main.6afd84a5.css.map",
+    "main.9c28eba4.js.map": "/SmartDetect/static/js/main.9c28eba4.js.map",
+    "453.666a5367.chunk.js.map": "/SmartDetect/static/js/453.666a5367.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6afd84a5.css",
+    "static/js/main.9c28eba4.js"
+  ]
+}
